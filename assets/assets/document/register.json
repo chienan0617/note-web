@@ -1,5 +1,5 @@
 {
-  "com.castudio.calendar:app": [
+  "calendar:app": [
     ["tutored", false],
     ["first", false],
     ["language", 1],
@@ -7,10 +7,10 @@
     ["task-id", 0],
     ["task-group-id", 0]
   ],
-  "com.castudio.calendar:task": [
+  "calendar:task": [
     ["none", false]
   ],
-  "com.castudio.calendar:task-group": [
+  "calendar:task-group": [
     ["none", false]
   ]
 }
