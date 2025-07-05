@@ -1,0 +1,7 @@
+{
+  "Hello" : ["Hello", "哈囉"],
+  "Calendar": ["Calendar", "日曆"],
+  "Task Group": ["Task Group", "代辦群組"],
+  "Agent": ["Agent", "助理"],
+  "Setting": ["Setting", "設定"]
+}
