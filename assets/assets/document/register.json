@@ -1,0 +1,22 @@
+{
+  "%app%": [
+    ["tutored", false],
+    ["first", false],
+    ["language", 1],
+    ["navigation-bar-index", 0],
+    ["task-id", 0],
+    ["task-group-id", 0],
+    ["tutorial:calendar", false],
+    ["tutorial:todo-group", false],
+    ["tutorial:calendar_add", false],
+    ["tutorial:calendar_view", false],
+    ["setting:theme", "light"],
+    ["setting:lang", "en"]
+  ],
+  "%task%": [
+    ["none", false]
+  ],
+  "%task-group%": [
+    ["none", false]
+  ]
+}

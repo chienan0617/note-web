@@ -1,0 +1,24 @@
+{
+  "calendar": {
+    "floating-action-button": [0, "to add the task", 0],
+    "app-bar-searching-button": [1, "to search specific task", 0],
+    "app-bar-datetime": [1, "to show datetime", 1, 16],
+    "date-cell": [1, "to open date cell", 2, 16]
+  },
+  "todo-group": {
+    "floating-action-button": [0, "to add todo group", 0],
+    "select-category-chip": [1, "to select todo group category", 1, 16],
+    "delete-todo-group-button": [1, "to delete todo group", 0],
+    "inspect-todo-group-section": [1, "to inspect todo group section", 1, 16]
+  },
+  "calendar_view": {
+    "floating-action-button": [0, "to add the task", 0],
+    "app-bar-editing-button": [1, "to edit task", 0]
+  },
+  "calendar_add": {
+    "title-input": [1, "to enter title", 1, 16],
+    "select-todo-groups": [1, "to select todo groups", 1, 16],
+    "select-date": [1, "to select date", 1, 16],
+    "select-time": [1, "to select time", 1, 16]
+  }
+}

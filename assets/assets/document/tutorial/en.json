@@ -1,0 +1,15 @@
+{
+  "to add the task": "這可以新增新的任務到日曆中",
+  "to search specific task": "這可以搜尋特定的任務",
+  "to show datetime": "這裡可以選擇當前月份",
+  "to add todo group": "這裡可以新增新的待辦事項群組",
+  "to select todo group category": "這裡可以選擇待辦事項組的類別",
+  "to delete todo group": "這裡可以刪除代辦事項組",
+  "to inspect todo group section": "點擊可以查看詳細內容",
+  "to open date cell": "點擊可以查看詳細內容",
+  "to edit task": "點擊可以編輯任務的順序等等...",
+  "to enter title": "這裡可以輸入任務的名稱",
+  "to select todo groups": "這裡可以選擇待辦事項組的類別",
+  "to select date": "這裡可以選擇時間",
+  "to select time": "這裡也可以選擇時間"
+}
